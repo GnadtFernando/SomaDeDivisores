@@ -1,9 +1,11 @@
 # SomaDeDivisores
 Código criado para resolver teste onde foi solicitado uma função, o usuário informa um número sendo ele inteiro e positivo e retorna a somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
-Para que o usuário consiga executar o código se faz necessário ter o dart SDK instalado na máquina
+A linguaguem Dart foi utilizada para solucionar o problema acima.
 
-SDK do Dart é um conjunto de recursos que nos permite criar e executar aplicações escritas nessa linguagem, mesma utilizada para resolver o problema
+Para que o usuário consiga executar o código se faz necessário ter o dart SDK instalado na máquina.
+
+SDK do Dart é um conjunto de recursos que nos permite criar e executar aplicações escritas nessa linguagem.
 
 Para a sua execução e necessário abrir a pasta do projeto e no local do arquivo abrir o prompt de comando, com o prompt aberto digitar o comando: "dart teste1.dart"
 
