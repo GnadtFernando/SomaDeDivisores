@@ -12,7 +12,7 @@ Para a sua execução e necessário abrir a pasta do projeto e no local do arqui
 Caso o usuário altere o nome do arquivo o comando ficaria: "dart novoNome.dart"
 
 
-Com a pasta aberta clickar botão direito do mouse e escolher opção "Abrir terminal do windows" (Nesse exemplo foi utilizado o sistema operacional windows 11)
+Com a pasta aberta clickar com botão direito do mouse e escolher opção "Abrir terminal do windows" (Nesse exemplo foi utilizado o sistema operacional windows 11)
 ![image](https://user-images.githubusercontent.com/57150488/149800399-6aa726e5-50ba-4658-abc8-88f1b1c5d2a1.png)
 
 Já com o prompt de comando aberto utilizar o comando: "dart teste1.dart", código espera que o usuário entre com um número
